@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Custo Oculto</title>
+    <link>https://www.youtube.com/@Custo-Oculto-YT</link>
+    <language>pt-br</language>
+    <description>Histórias reais por trás de empresas famosas: fraudes, quedas, decisões bilionárias e quem pagou a conta. Um caso novo toda semana, do canal Custo Oculto no YouTube.</description>
+    <atom:link href="https://tsvini.github.io/custo-oculto-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Vinícius Torales</itunes:author>
+    <itunes:summary>Histórias reais por trás de empresas famosas: fraudes, quedas, decisões bilionárias e quem pagou a conta. Um caso novo toda semana, do canal Custo Oculto no YouTube.</itunes:summary>
+    <itunes:image href="https://tsvini.github.io/custo-oculto-podcast/capa.jpg"/>
+    <image><url>https://tsvini.github.io/custo-oculto-podcast/capa.jpg</url><title>Custo Oculto</title><link>https://www.youtube.com/@Custo-Oculto-YT</link></image>
+    <itunes:category text="Business"><itunes:category text="Entrepreneurship"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner><itunes:name>Vinícius Torales</itunes:name><itunes:email>custoculto.contato@gmail.com</itunes:email></itunes:owner>
+
+  </channel>
+</rss>

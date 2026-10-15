@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hidden Cost</title>
+    <link>https://www.youtube.com/@HiddenCostCases</link>
+    <language>en</language>
+    <description>The real stories behind the world's most famous companies: frauds, collapses, billion-dollar mistakes and who paid the price. A new case every week, from the Hidden Cost YouTube channel.</description>
+    <atom:link href="https://tsvini.github.io/custo-oculto-podcast/feed-en.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Vinícius Torales</itunes:author>
+    <itunes:summary>The real stories behind the world's most famous companies: frauds, collapses, billion-dollar mistakes and who paid the price. A new case every week, from the Hidden Cost YouTube channel.</itunes:summary>
+    <itunes:image href="https://tsvini.github.io/custo-oculto-podcast/capa-en.jpg"/>
+    <image><url>https://tsvini.github.io/custo-oculto-podcast/capa-en.jpg</url><title>Hidden Cost</title><link>https://www.youtube.com/@HiddenCostCases</link></image>
+    <itunes:category text="Business"><itunes:category text="Entrepreneurship"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner><itunes:name>Vinícius Torales</itunes:name><itunes:email>custoculto.contato@gmail.com</itunes:email></itunes:owner>
+
+  </channel>
+</rss>
